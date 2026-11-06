@@ -1,4 +1,4 @@
-Markdown
+
 Welcome to my Business Intelligence portfolio! This repository showcases end-to-end data analytics projects, interactive Power BI dashboards, and data models designed to drive data-driven decision-making.
 
 ## 📂 Project Catalog
